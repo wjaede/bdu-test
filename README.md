@@ -1,2 +1,2 @@
 # bdu-test
-Testrepositiry
+Testrepo
